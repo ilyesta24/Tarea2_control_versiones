@@ -26,6 +26,9 @@ public class crearCoche {
 	        CocheDeportivo deportivo3 = new CocheDeportivo("Nissan", "GTR", 2023, 565);
 	        deportivo3.mostrarInformacion();
 	        
+	        CocheDeportivo deportivo4 = new CocheDeportivo("Audi", "RS6 MTM", 2024, 1005);
+	        deportivo4.mostrarInformacion();
+	        
 	        System.out.println("--------------Fin------------");
 	    }
 		
