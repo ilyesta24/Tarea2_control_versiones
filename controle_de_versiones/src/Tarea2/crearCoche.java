@@ -15,7 +15,11 @@ public class crearCoche {
 
 	        CocheDeportivo deportivo1 = new CocheDeportivo("Ford", "Mustang", 2023, 450);
 	        deportivo1.mostrarInformacion();
+	        
+	        CocheDeportivo deportivo2 = new CocheDeportivo("Chevrolet", "Camaro", 2022, 420);
+	        deportivo2.mostrarInformacion();
 	    }
+		
 	
 	}
 
