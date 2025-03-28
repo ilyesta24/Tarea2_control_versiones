@@ -8,6 +8,13 @@ public class crearCoche {
 
 	        Coche coche2 = new Coche("Honda", "Civic", 2021);
 	        coche2.mostrarInformacion();
+	        
+	        System.out.println("--------------------------");
+	        System.out.println("Coches Deportivos");
+	        System.out.println("--------------------------");
+
+	        CocheDeportivo deportivo1 = new CocheDeportivo("Ford", "Mustang", 2023, 450);
+	        deportivo1.mostrarInformacion();
 	    }
 	
 	}
