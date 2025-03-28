@@ -9,6 +9,9 @@ public class crearCoche {
 	        Coche coche2 = new Coche("Honda", "Civic", 2021);
 	        coche2.mostrarInformacion();
 	        
+	        Coche coche3 = new Coche("Audi", "A3", 2023);
+	        coche3.mostrarInformacion();
+	        
 	        System.out.println("--------------------------");
 	        System.out.println("Coches Deportivos");
 	        System.out.println("--------------------------");
