@@ -16,5 +16,8 @@ public class Coche {
 	        System.out.println("Modelo: " + modelo);
 	        System.out.println("Año: " + año);
 	    }
+	    public int getAño() {
+	        return año;
+	    }
 	}
 
